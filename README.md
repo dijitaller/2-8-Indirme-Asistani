@@ -24,4 +24,4 @@ Bilgisayarınızın uykudan uyanma sorunu varsa bu modu kullanabilirsiniz. Bu mo
 ## Kapatma Saati
 Çalışma modunuz ne olursa olsun bilgisayarınız varsayılan olarak saat 07:55 olduğu zaman otomatik olarak kapatılır. Eğer indireceğiniz dosyalar ufak boyutluysa ve bilgisayarınızın 07:55'e kadar çalışmasının gereksiz olacağını düşünüyorsanız, “**Kapatma Saati**” kısmından “**Saati ben seçeceğim**” seçeneğine tıklayarak kapanmasını istediğiniz saati seçebilirsiniz. Yaptığınız her saat ve dakika değişikliği otomatik olarak kaydedilecektir, kaydetmek için herhangi bir butona basmanıza gerek yoktur.
 
-
+[https://www.dijitaller.com/2-8-asistan/](Ekran görüntüleri için lütfen ziyaret edin)
