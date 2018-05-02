@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.DosyaKontrol.resources
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.Form1.resources
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\2-8 Asistan.csproj.GenerateResource.Cache
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\2-8 Asistan.csprojResolveAssemblyReference.cache
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\2-8 Asistan.exe.config
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\2-8 Asistan.exe
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\2-8 Asistan.pdb
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\2-8 Asistan.exe
+D:\Belgeler\Visual Studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\2-8 Asistan.pdb

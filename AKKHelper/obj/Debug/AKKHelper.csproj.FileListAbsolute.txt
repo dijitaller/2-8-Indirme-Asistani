@@ -1,0 +1,10 @@
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\AKKHelper.exe.config
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\AKKHelper.exe
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\bin\Debug\AKKHelper.pdb
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.Form1.resources
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.Properties.Resources.resources
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.exe
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.pdb
+d:\belgeler\visual studio 2017\Projects\AKKHelper\AKKHelper\obj\Debug\AKKHelper.DosyaKontrol.resources
